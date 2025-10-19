@@ -1,12 +1,14 @@
-pandas
-numpy
-scikit-learn
-nltk
-spacy
-gensim
-pyLDAvis
-matplotlib
-seaborn
-wordcloud
-kaggle
-tqdm
+# Basis
+numpy>=1.26.0
+pandas>=2.1.0
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# NLP & Modellierung
+scikit-learn>=1.4.0
+nltk>=3.8.1
+spacy>=3.7.0
+gensim>=4.3.2
+
+# Fortschrittsanzeige
+tqdm>=4.66.1
